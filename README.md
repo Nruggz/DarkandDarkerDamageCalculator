@@ -1,4 +1,4 @@
-# DarkandDarkerDamageCalculator
+# Dark and Darker Damage Calculator
  
 To use, download the .zip and run the .exe is located in the dist folder.
 
