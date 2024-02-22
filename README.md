@@ -1,5 +1,3 @@
 # Dark and Darker Damage Calculator
  
-To use, download the .zip and run the .exe is located in the dist folder.
-
-If you want to feel safe about it, you can take the code from the DarkandDarkerRogueDamageCalc.py file and compile it yourself. :) 
+A Dark and Darker Calculator. Input the Values and it will do the math to calculate your damage.
